@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 Madison Metro's network is changing. On June 11, the redesigned network, with all new routes will start. This means a simpler network and faster service. 
