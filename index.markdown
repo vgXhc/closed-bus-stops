@@ -5,7 +5,7 @@
 layout: page
 ---
 
-Madison Metro's network is changing. On June 11, the redesigned network, with all new routes will start. This means a simpler network and faster service. 
+Madison Metro's network [is changing](https://www.cityofmadison.com/metro/routes-schedules/transit-network-redesign). On June 11, the redesigned network, with all new routes will start. This means a simpler network and faster service. 
 
 It also means that a lot of stops will be closing. To help people navigate those closures, this is a volunteer effort to create and put up meaningful signage at the closed stops. Here's how it works:
 
@@ -15,7 +15,7 @@ It also means that a lot of stops will be closing. To help people navigate those
 4. Print the sign.
 5. Install the sign at the bus stop.
 
-Do not cover any signage for Metro. Don't put the signs up in a way that requires clean-up for Metro. Take extra care to put up the correct sign for the stop.
+Do not cover any signage for Metro. Don't put the signs up in a way that requires clean-up for Metro. Take extra care to put up the correct sign for the stop. Don't be a jerk to Metro workers or city staff.
 
 # The signs
 
