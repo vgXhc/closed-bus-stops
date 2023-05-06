@@ -19,6 +19,10 @@ Do not cover any signage for Metro. Don't put the signs up in a way that require
 
 # The signs
 
+Here's a preview of what the signs look like:
+
+![Sign for stop 2488](assets/img/sign-preview.png){: width="400" }
+
 Tip: Use Ctrl-F to search for the stop number.
 
 [0104 - N Mills & W Dayton (SB)](assets/pdf/0104_closure_sign.pdf)
