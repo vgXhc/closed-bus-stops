@@ -11,7 +11,7 @@ It also means that a lot of stops will be closing. To help people navigate those
 
 1. You notice a stop closing sign in your neighborhood. 
 2. Write down or take a picture of the 4-digit stop number.
-3. Download the pdf file for that stop. 
+3. Download the pdf file for that stop. (scroll down on this page)
 4. Print the sign.
 5. Install the sign at the bus stop.
 
