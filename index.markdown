@@ -7,13 +7,16 @@ layout: page
 
 Madison Metro's network [is changing](https://www.cityofmadison.com/metro/routes-schedules/transit-network-redesign). On June 11, the redesigned network, with all new routes will start. This means a simpler network and faster service. 
 
-It also means that a lot of stops will be closing. To help people navigate those closures, this is a volunteer effort to create and put up meaningful signage at the closed stops. Here's how it works:
+It also means that a lot of stops will be closing. To help people navigate those closures, this is a volunteer effort to create ~~and put up~~ meaningful signage at the closed stops. Here's how it works:
 
 1. You notice a stop closing sign in your neighborhood. 
 2. Write down or take a picture of the 4-digit stop number.
 3. Download the pdf file for that stop. (scroll down on this page)
 4. Print the sign.
-5. Install the sign at the bus stop.
+5. ~~Install the sign at the bus stop.~~
+5. Hang it up on your wall, use it as a reference document, give it to bus-curious neighbor, write your shopping list on it. But please don't put it up at bus stops.
+
+**Metro reached out to me and requested that you DO NOT PUT SIGNS UP. There have been instances of incorrect signs and signs that quickly were destroyed by rain, creating additional work for Metro staff. This is not good. This is bad. So please DO NOT PUT SIGNS UP. This is not some CYA language. I mean it.** 
 
 Do not cover any signage for Metro. Don't put the signs up in a way that requires clean-up for Metro. Take extra care to put up the correct sign for the stop. Don't be a jerk to Metro workers or city staff.
 
